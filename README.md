@@ -1,10 +1,12 @@
 ### 🤘
 
-### Ilya, Saint-Petersburg Polytech University student, 18 yo.
+### Ilya, Saint-Petersburg Polytech University student, 19 yo.
 
 #### 📘Learning:
 - Kotlin
 - Java
+- Python
+- C
 
 #### 📞Contact:
 - 💬 Telegram: @loviroyal
